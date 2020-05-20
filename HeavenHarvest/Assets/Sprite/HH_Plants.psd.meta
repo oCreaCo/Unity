@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 4ade5b977a802b145972e149727aa8bd
+timeCreated: 1493438163
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HH_Plants_Carrot_Alive
+    21300002: HH_Plants_Carrot_Dead
+    21300004: HH_Plants_0
+    21300006: HH_Plants_1
+    21300008: HH_Plants_2
+    21300010: HH_Plants_3
+    21300012: HH_Plants_4
+    21300014: HH_Plants_5
+    21300016: HH_Plants_6
+    21300018: HH_Plants_7
+    21300020: HH_Plants_Radish_Alive
+    21300022: HH_Plants_Radish_Dead
+    21300024: HH_Plants_Cabbage_Alive
+    21300026: HH_Plants_Cabbage_Dead
+    21300028: HH_Plants_Tomato_Object
+    21300030: HH_Plants_Corn_Object
+    21300032: HH_Plants_8
+    21300034: HH_Plants_9
+    21300036: HH_Plants_10
+    21300038: HH_Plants_11
+    21300040: HH_Plants_12
+    21300042: HH_Plants_13
+    21300044: HH_Plants_Corn_0_Alive
+    21300046: HH_Plants_Corn_1_Alive
+    21300048: HH_Plants_Corn_2_Alive
+    21300050: HH_Plants_Corn_0_Dead
+    21300052: HH_Plants_Corn_1_Dead
+    21300054: HH_Plants_Corn_2_Dead
+    21300056: HH_Plants_Tomato_0_Alive
+    21300058: HH_Plants_Tomato_1_Alive
+    21300060: HH_Plants_Tomato_2_Alive
+    21300062: HH_Plants_Tomato_3_Alive
+    21300064: HH_Plants_Tomato_0_Dead
+    21300066: HH_Plants_Tomato_1_Dead
+    21300068: HH_Plants_Tomato_2_Dead
+    21300070: HH_Plants_Tomato_3_Dead
+    21300072: HH_Plants_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HH_Plants_Carrot_Alive
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Carrot_Dead
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 155
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 186
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Radish_Alive
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 155
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Radish_Dead
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 155
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Cabbage_Alive
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 157
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Cabbage_Dead
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 157
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_Object
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_Object
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 158
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 127
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_0_Alive
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 87
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_1_Alive
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 87
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_2_Alive
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 87
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_0_Dead
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_1_Dead
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 55
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Corn_2_Dead
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_0_Alive
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_1_Alive
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_2_Alive
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_3_Alive
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 28
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_0_Dead
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_1_Dead
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_2_Dead
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_Tomato_3_Dead
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HH_Plants_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

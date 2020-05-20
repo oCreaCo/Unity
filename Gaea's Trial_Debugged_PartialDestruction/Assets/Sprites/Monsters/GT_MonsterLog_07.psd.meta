@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 2f0a16ce43643034299e71746e18ee8a
+timeCreated: 1489457525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GT_MonsterLog_07_0
+    21300002: GT_MonsterLog_07_1
+    21300004: GT_MonsterLog_07_2
+    21300006: GT_MonsterLog_07_3
+    21300008: GT_MonsterLog_07_4
+    21300010: GT_MonsterLog_07_5
+    21300012: GT_MonsterLog_07_6
+    21300014: GT_MonsterLog_07_7
+    21300016: GT_MonsterLog_07_8
+    21300018: GT_MonsterLog_07_9
+    21300020: GT_MonsterLog_07_10
+    21300022: GT_MonsterLog_07_11
+    21300024: GT_MonsterLog_07_12
+    21300026: GT_MonsterLog_07_13
+    21300028: GT_MonsterLog_07_14
+    21300030: GT_MonsterLog_07_15
+    21300032: GT_MonsterLog_07_16
+    21300034: GT_MonsterLog_07_17
+    21300036: GT_MonsterLog_07_18
+    21300038: GT_MonsterLog_07_19
+    21300040: GT_MonsterLog_07_20
+    21300042: GT_MonsterLog_07_21
+    21300044: GT_MonsterLog_07_22
+    21300046: GT_MonsterLog_07_23
+    21300048: GT_MonsterLog_07_24
+    21300050: GT_MonsterLog_07_25
+    21300052: GT_MonsterLog_07_26
+    21300054: GT_MonsterLog_07_27
+    21300056: GT_MonsterLog_07_28
+    21300058: GT_MonsterLog_07_29
+    21300060: GT_MonsterLog_07_30
+    21300062: GT_MonsterLog_07_31
+    21300064: GT_MonsterLog_07_32
+    21300066: GT_MonsterLog_07_33
+    21300068: GT_MonsterLog_07_34
+    21300070: GT_MonsterLog_07_35
+    21300072: GT_MonsterLog_07_36
+    21300074: GT_MonsterLog_07_37
+    21300076: GT_MonsterLog_07_38
+    21300078: GT_MonsterLog_07_39
+    21300080: GT_MonsterLog_07_40
+    21300082: GT_MonsterLog_07_41
+    21300084: GT_MonsterLog_07_42
+    21300086: GT_MonsterLog_07_43
+    21300088: GT_MonsterLog_07_44
+    21300090: GT_MonsterLog_07_45
+    21300092: GT_MonsterLog_07_46
+    21300094: GT_MonsterLog_07_47
+    21300096: GT_MonsterLog_07_48
+    21300098: GT_MonsterLog_07_49
+    21300100: GT_MonsterLog_07_50
+    21300102: GT_MonsterLog_07_51
+    21300104: GT_MonsterLog_07_52
+    21300106: GT_MonsterLog_07_53
+    21300108: GT_MonsterLog_07_54
+    21300110: GT_MonsterLog_07_55
+    21300112: GT_MonsterLog_07_56
+    21300114: GT_MonsterLog_07_57
+    21300116: GT_MonsterLog_07_58
+    21300118: GT_MonsterLog_07_59
+    21300120: GT_MonsterLog_07_60
+    21300122: GT_MonsterLog_07_61
+    21300124: GT_MonsterLog_07_62
+    21300126: GT_MonsterLog_07_63
+    21300128: GT_MonsterLog_07_64
+    21300130: GT_MonsterLog_07_65
+    21300132: GT_MonsterLog_07_66
+    21300134: GT_MonsterLog_07_67
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 490
+        width: 26
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7519438, y: 0.6455668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 488
+        width: 6
+        height: 24
+      alignment: 9
+      pivot: {x: 0.03760783, y: 0.90127945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 2
+        height: 12
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 456
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 456
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 456
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 456
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 424
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 424
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 424
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 424
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 408
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 376
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 376
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 376
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 377
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 384
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.89887464, y: 0.96764505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 304
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 304
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 304
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 304
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 323
+        width: 28
+        height: 8
+      alignment: 9
+      pivot: {x: 0.863799, y: 0.41755676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 325
+        width: 28
+        height: 8
+      alignment: 9
+      pivot: {x: 0.91352683, y: 0.69236755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 275
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 291
+        width: 47
+        height: 11
+      alignment: 9
+      pivot: {x: 0.9557722, y: 0.7902943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 291
+        width: 47
+        height: 11
+      alignment: 9
+      pivot: {x: 0.044227764, y: 0.77819824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 272
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.95828867, y: 0.75131905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 272
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.041711595, y: 0.75131905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 284
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 264
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 225
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 5
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 225
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 39
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 208
+        width: 30
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 172
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_07_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 309
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,95 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Battle\PartialDestruction.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Battle\GameMaster.cs" Line="466" Column="5" />
+      <File FileName="Assets\Scripts\Hero\HeroSkill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Skill\DamageHeroInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\InventoryManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\ItemData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\InventoryController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shop\ShopManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\MonsterRangeAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Skill\TriggerStopMonster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage\StageManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Skill\Barricade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\ItemInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\PufferBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\MonsterMeleeAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\Blobber.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\World8BuffObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Skill\AwakeSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Battle\GameOverUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Skill\MoveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\Mimic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\LanguageData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage\CameraPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tutorial\TutorialManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shop\ShopTutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\GameDBAsset.cs" Line="1" Column="1" />
+      <File FileName="Assets\CastleHealthGraph.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Battle\WaveDB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Battle\Castle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hero\LegendWeapon\HWeapon090.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hero\GT_BasicAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\UltFlare.cs" Line="1" Column="1" />
+      <File FileName="Assets\MousePositionTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenu\MainGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage\InfiniteStage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Gate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monster\Monster_Basic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Battle\PartialDestruction.cs" Line="42" Column="70" />
+      <File FileName="Assets\Scripts\Battle\LegendSkillButton.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\StatusTriggerAllMonsters.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\StoryTutorialManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\WorldSelect\WorldSelect.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Theminion.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\AD_IAP\IAPManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\AD_IAP\IAPButton.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\AD_IAP\AdManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Shop\BuyGemScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\Recovery.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\Monster_StatusController.cs" Line="38" Column="46" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\DarkMagician.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\DarkMagician_Skilled.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Blob.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\EndingGaea.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\World8Buffer.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\World8Buffs.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Sound\AudioManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\StatusIndicator.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\Snatcher.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\CaveMantis.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Shop\ShopCameraPosition.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\EndingScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Shop\BuyHeroScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\WaveSpawner.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Skill\Buff.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Magician\MWeaponFirePoint.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\ARayCast.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\GamePiece.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Prefab\Jewels\JewelParticle.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\BattleTutorial.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\MainMenu\MonsterDictionaryUI.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\PlayerPrefsScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Hero\LegendWeapon\HWeapon092_Hammer.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\CameraGoldSkill.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\EarthElemental.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\MonsterDebuff.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\Grid.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\MovablePiece.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Battle\CameraLerpPosition.cs" Line="72" Column="16" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\SandWhale.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\CloudBear.cs" Line="37" Column="49" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\Cavian.cs" Line="35" Column="60" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\Necro.cs" Line="108" Column="68" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\KillerBunny.cs" Line="121" Column="3" NotebookId="1" />
+      <File FileName="Assets\Scripts\Monster\Chain.cs" Line="20" Column="52" NotebookId="1" />
+      <File FileName="Assets\FireWall.cs" Line="18" Column="3" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

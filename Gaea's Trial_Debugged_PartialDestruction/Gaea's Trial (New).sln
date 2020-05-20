@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{88D425AE-77AF-C06A-CE1A-E432F34B29FF}") = "Gaea's Trial (New)", "Assembly-CSharp-firstpass.csproj", "{F27EB88C-7AF0-ABC1-1E37-2964A66E6876}"
+EndProject
+Project("{88D425AE-77AF-C06A-CE1A-E432F34B29FF}") = "Gaea's Trial (New)", "Assembly-CSharp.csproj", "{0404CA26-34CC-D939-FB9E-81DA165DCF29}"
+EndProject
+Project("{88D425AE-77AF-C06A-CE1A-E432F34B29FF}") = "Gaea's Trial (New)", "Assembly-CSharp-Editor-firstpass.csproj", "{B229B034-1B55-493A-7E3F-91D0092D6CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27EB88C-7AF0-ABC1-1E37-2964A66E6876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27EB88C-7AF0-ABC1-1E37-2964A66E6876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27EB88C-7AF0-ABC1-1E37-2964A66E6876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27EB88C-7AF0-ABC1-1E37-2964A66E6876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0404CA26-34CC-D939-FB9E-81DA165DCF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0404CA26-34CC-D939-FB9E-81DA165DCF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0404CA26-34CC-D939-FB9E-81DA165DCF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0404CA26-34CC-D939-FB9E-81DA165DCF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B229B034-1B55-493A-7E3F-91D0092D6CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B229B034-1B55-493A-7E3F-91D0092D6CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B229B034-1B55-493A-7E3F-91D0092D6CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B229B034-1B55-493A-7E3F-91D0092D6CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

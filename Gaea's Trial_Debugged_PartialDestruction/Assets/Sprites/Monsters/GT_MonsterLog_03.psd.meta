@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 5ed778c33ca181942a0201646af7bbba
+timeCreated: 1489723274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GT_MonsterLog_03_0_Coldeminion_1
+    21300002: GT_MonsterLog_03_1_Coldeminion_2
+    21300004: GT_MonsterLog_03_2_Coldeminion_3
+    21300006: GT_MonsterLog_03_3_Coldeminion_4
+    21300008: GT_MonsterLog_03_4_Coldeminion_5
+    21300010: GT_MonsterLog_03_5_Bergbits_1
+    21300012: GT_MonsterLog_03_6_Bergbits_2
+    21300014: GT_MonsterLog_03_7_Bergbits3
+    21300016: GT_MonsterLog_03_8_Bergbits_4
+    21300018: GT_MonsterLog_03_9_IceBlock_1
+    21300020: GT_MonsterLog_03_10_IceBlock_2
+    21300022: GT_MonsterLog_03_11_IceBlock_3
+    21300024: GT_MonsterLog_03_12_IceBlock_4
+    21300026: GT_MonsterLog_03_13_IceBlock_5
+    21300028: GT_MonsterLog_03_14_IceBlock_6
+    21300030: GT_MonsterLog_03_15_IceBlock_7
+    21300032: GT_MonsterLog_03_16_Snowman_1
+    21300034: GT_MonsterLog_03_17_Snowman_2
+    21300036: GT_MonsterLog_03_18_Snowman_3
+    21300038: GT_MonsterLog_03_19_Snowman_4
+    21300040: GT_MonsterLog_03_20_Iceberg
+    21300042: GT_MonsterLog_03_21_Penguin_1
+    21300044: GT_MonsterLog_03_22_Penguin_2
+    21300046: GT_MonsterLog_03_23_Penguin_3
+    21300048: GT_MonsterLog_03_24_Penguin_4
+    21300050: GT_MonsterLog_03_25_Penguin_5
+    21300052: GT_MonsterLog_03_26_IceBear_1
+    21300054: GT_MonsterLog_03_27_IceBear_2
+    21300056: GT_MonsterLog_03_28_IceBear_3
+    21300058: GT_MonsterLog_03_29_IceBear_4
+    21300060: GT_MonsterLog_03_30_IceBear_5
+    21300062: GT_MonsterLog_03_31_IceBear_6
+    21300064: GT_MonsterLog_03_32_IceBear_7
+    21300066: GT_MonsterLog_03_33_IceBear_Missile
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_0_Coldeminion_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_1_Coldeminion_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_2_Coldeminion_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_3_Coldeminion_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_4_Coldeminion_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_5_Bergbits_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 462
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_6_Bergbits_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_7_Bergbits3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 464
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_8_Bergbits_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 466
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_9_IceBlock_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_10_IceBlock_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 414
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_11_IceBlock_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 414
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_12_IceBlock_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 414
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_13_IceBlock_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 414
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_14_IceBlock_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 366
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_15_IceBlock_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 366
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_16_Snowman_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 15
+        height: 5
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_17_Snowman_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 336
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_18_Snowman_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_19_Snowman_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 344
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_20_Iceberg
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_21_Penguin_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_22_Penguin_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 288
+        width: 11
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_23_Penguin_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 309
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_24_Penguin_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_25_Penguin_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 301
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_26_IceBear_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.9038261, y: 0.4207075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_27_IceBear_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 212
+        width: 21
+        height: 14
+      alignment: 9
+      pivot: {x: 0.9392629, y: 0.4847935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_28_IceBear_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 215
+        width: 100
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.766291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_29_IceBear_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 189
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3002819, y: 0.8206177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_30_IceBear_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 173
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6820797, y: 0.7532557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_31_IceBear_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 168
+        width: 38
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8687107, y: 0.5537701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_32_IceBear_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 39
+        height: 18
+      alignment: 9
+      pivot: {x: 0.8624078, y: 0.6980107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_03_33_IceBear_Missile
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 240
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

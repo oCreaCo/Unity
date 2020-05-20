@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: da5d57fe125cc2342a5d79fd4d31ac32
+timeCreated: 1487527854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GT_MonsterLog_02_0_Sandeminion_1
+    21300002: GT_MonsterLog_02_1_Sandeminion_2
+    21300004: GT_MonsterLog_02_2_Sandeminion_3
+    21300006: GT_MonsterLog_02_3_Sandeminion_4
+    21300008: GT_MonsterLog_02_4_Sandeminion_5
+    21300010: GT_MonsterLog_02_5_TumbleWeed
+    21300012: GT_MonsterLog_02_6_CrazySand_1
+    21300014: GT_MonsterLog_02_7_CrazySand_2
+    21300016: GT_MonsterLog_02_8_CrazySand_3
+    21300018: GT_MonsterLog_02_9_CrazySand_4
+    21300020: GT_MonsterLog_02_10_CrazySand_5
+    21300022: GT_MonsterLog_02_11_CrazySand_6
+    21300024: GT_MonsterLog_02_12_CrazySand_7
+    21300026: GT_MonsterLog_02_13_SandChunk
+    21300028: GT_MonsterLog_02_14_MadSand_1
+    21300030: GT_MonsterLog_02_15_MadSand_2
+    21300032: GT_MonsterLog_02_16_MadSand_3
+    21300034: GT_MonsterLog_02_17_MadSand_4
+    21300036: GT_MonsterLog_02_18_MadSand_5
+    21300038: GT_MonsterLog_02_19_MadSand_6
+    21300040: GT_MonsterLog_02_20_MadSand_7
+    21300042: GT_MonsterLog_02_21_MadSand_8
+    21300044: GT_MonsterLog_02_22_MadSand_9
+    21300046: GT_MonsterLog_02_23_MadSand_10
+    21300048: GT_MonsterLog_02_24_MadSand_11
+    21300050: GT_MonsterLog_02_25_MadSand_12
+    21300052: GT_MonsterLog_02_26_MadSand_13
+    21300054: GT_MonsterLog_02_27_MadSand_14
+    21300056: GT_MonsterLog_02_28_MadSand_15
+    21300058: GT_MonsterLog_02_29_Mummy_1
+    21300060: GT_MonsterLog_02_30_Mummy_2
+    21300062: GT_MonsterLog_02_31_Mummy_3
+    21300064: GT_MonsterLog_02_32_Mummy_4
+    21300066: GT_MonsterLog_02_33_Mummy_5
+    21300068: GT_MonsterLog_02_34_Mummy_6
+    21300070: GT_MonsterLog_02_35_Mummy_7
+    21300072: GT_MonsterLog_02_36_Mummy_8
+    21300074: GT_MonsterLog_02_37_Mummy_9
+    21300076: GT_MonsterLog_02_38_Mummy_10
+    21300078: GT_MonsterLog_02_39_Mummy_11
+    21300080: GT_MonsterLog_02_40_Mummy_12
+    21300082: GT_MonsterLog_02_41_Mummy_13
+    21300084: GT_MonsterLog_02_42_Mummy_14
+    21300086: GT_MonsterLog_02_43_Mummy_15
+    21300088: GT_MonsterLog_02_44_King'sBurial_1
+    21300090: GT_MonsterLog_02_45_King'sBurial_2
+    21300092: GT_MonsterLog_02_46_Camel
+    21300094: GT_MonsterLog_02_47_Camel_Missile
+    21300096: GT_MonsterLog_02_48_Camel_rocket_1
+    21300098: GT_MonsterLog_02_49_Camel_rocket_2
+    21300100: GT_MonsterLog_02_50_Camel_rocket_3
+    21300102: GT_MonsterLog_02_51_Camel_rocket_4
+    21300104: GT_MonsterLog_02_52_Camel_rocket_5
+    21300106: GT_MonsterLog_02_53_SandWhale_1
+    21300108: GT_MonsterLog_02_54_SandWhale_2
+    21300110: GT_MonsterLog_02_55_SandWhale_3
+    21300112: GT_MonsterLog_02_56_SandWhale_4
+    21300114: GT_MonsterLog_02_57_SandWhale_5
+    21300116: GT_MonsterLog_02_58_SandWhale_6
+    21300118: GT_MonsterLog_02_59_SandWhale_7
+    21300120: GT_MonsterLog_02_60_SandWhale_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_0_Sandeminion_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_1_Sandeminion_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_2_Sandeminion_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_3_Sandeminion_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_4_Sandeminion_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_5_TumbleWeed
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_6_CrazySand_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_7_CrazySand_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_8_CrazySand_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_9_CrazySand_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_10_CrazySand_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_11_CrazySand_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_12_CrazySand_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_13_SandChunk
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 464
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_14_MadSand_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_15_MadSand_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_16_MadSand_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_17_MadSand_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_18_MadSand_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_19_MadSand_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_20_MadSand_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_21_MadSand_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_22_MadSand_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_23_MadSand_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_24_MadSand_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_25_MadSand_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_26_MadSand_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_27_MadSand_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_28_MadSand_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_29_Mummy_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_30_Mummy_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_31_Mummy_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_32_Mummy_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_33_Mummy_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_34_Mummy_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_35_Mummy_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_36_Mummy_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_37_Mummy_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_38_Mummy_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_39_Mummy_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_40_Mummy_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_41_Mummy_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_42_Mummy_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_43_Mummy_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_44_King'sBurial_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_45_King'sBurial_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 263
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_46_Camel
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_47_Camel_Missile
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_48_Camel_rocket_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 230
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_49_Camel_rocket_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 230
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_50_Camel_rocket_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 230
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_51_Camel_rocket_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 230
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_52_Camel_rocket_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 230
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_53_SandWhale_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_54_SandWhale_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 120
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_55_SandWhale_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_56_SandWhale_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_57_SandWhale_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_58_SandWhale_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_59_SandWhale_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GT_MonsterLog_02_60_SandWhale_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

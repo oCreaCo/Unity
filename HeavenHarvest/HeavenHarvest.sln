@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FA883B26-A6D7-1918-5B76-45B9C3E2E5EA}") = "HeavenHarvest", "Assembly-CSharp-firstpass.csproj", "{3415C9C2-8FF5-03A3-E7D8-336DEF6EC8AF}"
+EndProject
+Project("{FA883B26-A6D7-1918-5B76-45B9C3E2E5EA}") = "HeavenHarvest", "Assembly-CSharp.csproj", "{C6E82FEA-8F6E-EFDF-5C2D-4A26E9625E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3415C9C2-8FF5-03A3-E7D8-336DEF6EC8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3415C9C2-8FF5-03A3-E7D8-336DEF6EC8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3415C9C2-8FF5-03A3-E7D8-336DEF6EC8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3415C9C2-8FF5-03A3-E7D8-336DEF6EC8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E82FEA-8F6E-EFDF-5C2D-4A26E9625E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E82FEA-8F6E-EFDF-5C2D-4A26E9625E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E82FEA-8F6E-EFDF-5C2D-4A26E9625E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E82FEA-8F6E-EFDF-5C2D-4A26E9625E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

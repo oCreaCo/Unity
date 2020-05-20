@@ -1,0 +1,5 @@
+AudioController (Don'tDestroyOnLoad X) - 개개인의 객체
+
+BGMController (Don'tDestroyOnLoad O) - bgm재생
+
+AudioManager (Don'tDestroyOnLoad X) - 효과음위주
