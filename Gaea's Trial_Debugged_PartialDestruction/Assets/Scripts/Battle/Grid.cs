@@ -135,7 +135,7 @@ public class Grid : MonoBehaviour {
 			}
 			//Debug.LogError ("8");
 			needsRefill = ClearAllValidMatches ();
-//			yield return new WaitForSeconds (fillTime2);
+			//yield return new WaitForSeconds (fillTime2);
 			if (!needsRefill) {
 				gameMaster.IsClickable (true);
 				onceClicked = false;
@@ -285,35 +285,35 @@ public class Grid : MonoBehaviour {
 				if (enteredPiece.pieceDebuffType != GamePiece.PieceDebuffType.ZLIME && pressedPiece.pieceDebuffType != GamePiece.PieceDebuffType.ZLIME) {
 					gameMaster.StackModifier (false);
 				}
-//				fillTime2 = fillTime;
-//				Debug.LogError ("19");
+				//fillTime2 = fillTime;
+				//Debug.LogError ("19");
 				int piece1X = piece1.X;
 				int piece1Y = piece1.Y;
 				piece1.MovableComponent.Move (piece2.X, piece2.Y, fillTime2);
 				piece2.MovableComponent.Move (piece1X, piece1Y, fillTime2);
-//				Debug.LogError ("20");
+				//Debug.LogError ("20");
 				StartCoroutine(ClearAllValidMatchesCoroutine(fillTime2));
-//				Debug.LogError ("21");
-//				Debug.LogError ("22");
+				//Debug.LogError ("21");
+				//Debug.LogError ("22");
 				pressedPieceTemp = pressedPiece;
 				enteredPieceTemp = enteredPiece;
 				pressedPiece = null;
 				enteredPiece = null;
-//				Debug.LogError ("23");
+				//Debug.LogError ("23");
 				StartCoroutine (Fill ());
-//				Debug.LogError ("24");
+				//Debug.LogError ("24");
 			} else {
 				if (gameMaster.stack < 3) {
 					gameMaster.StackModifier (true);
-//					fillTime2 += 1.0f;
+					//fillTime2 += 1.0f;
 				}
-//				Debug.LogError ("25");
+				//Debug.LogError ("25");
 				int piece1X = piece1.X;
 				int piece1Y = piece1.Y;
 
 				piece1.MovableComponent.Move (piece2.X, piece2.Y, fillTime2);
 				piece2.MovableComponent.Move (piece1X, piece1Y, fillTime2);
-//				Debug.LogError ("26");
+				//Debug.LogError ("26");
 			}
 		}
 	}
@@ -733,10 +733,10 @@ public class Grid : MonoBehaviour {
 								//Debug.LogError ("79");
 							}
 						}
-//						gameMaster.GetFinalDamage (1, 1);
-//						if (allUltClear) UltClear(ultClearTemp[0]);
+						//gameMaster.GetFinalDamage (1, 1);
+						//if (allUltClear) UltClear(ultClearTemp[0]);
 						gameMaster.GetGold (gameMaster.yellowValue);
-//						gameMaster.goldText.text = (gameMaster.stageGold * 5).ToString ();
+						//gameMaster.goldText.text = (gameMaster.stageGold * 5).ToString ();
 						if (started) {
 							switch (match [0].ColorComponent.Color) {
 							case ColorPiece.ColorType.RED:
@@ -774,9 +774,9 @@ public class Grid : MonoBehaviour {
 									if ((match [0].ColorComponent.Color == ColorPiece.ColorType.RED)) {
 										VerClear (match [i]);
 									}
-//									if ((match [0].ColorComponent.Color == ColorPiece.ColorType.GREEN)) {
-//										gameMaster.GetGreenValue (20 + gameMaster.greenSkillValue + gameMaster.greenWeaponValue);
-//									}
+									//if ((match [0].ColorComponent.Color == ColorPiece.ColorType.GREEN)) {
+									//	gameMaster.GetGreenValue (20 + gameMaster.greenSkillValue + gameMaster.greenWeaponValue);
+									//}
 									else if (match [0].ColorComponent.Color == ColorPiece.ColorType.BLUE) {
 										heroPrefab.GetComponent<Hero>().selectedHero.GetComponent<HeroSkill>().VerSkill (gameMaster.blueValue + gameMaster.blueSkillValue + gameMaster.blueWeaponValue + gameMaster.blueBurningAddValue, Random.Range (gameMaster.weaponMin, gameMaster.weaponMax + 1));
 										if (heroPrefab.GetComponent<Hero> ().copyHero != null) {
@@ -919,7 +919,7 @@ public class Grid : MonoBehaviour {
 			}
 		}
 		castle.GetHealth(gameMaster.greenValue + gameMaster.greenSkillValue + gameMaster.greenWeaponValue);
-//		gameMaster.GetFinalDamage (1, 0);
+		//gameMaster.GetFinalDamage (1, 0);
 		gameMaster.GetGold (gameMaster.yellowValue);
 
 		for (int j = 0; j < yDim; j++) {
@@ -1026,7 +1026,7 @@ public class Grid : MonoBehaviour {
 			}
 		}
 		castle.GetHealth(gameMaster.greenValue + gameMaster.greenSkillValue + gameMaster.greenWeaponValue);
-//		gameMaster.GetFinalDamage (1, 0);
+		//gameMaster.GetFinalDamage (1, 0);
 		gameMaster.GetGold (gameMaster.yellowValue);
 
 		for (int j = 0; j < yDim; j++) {
@@ -1151,7 +1151,7 @@ public class Grid : MonoBehaviour {
 			}
 		}
 		castle.GetHealth(gameMaster.greenValue + gameMaster.greenSkillValue + gameMaster.greenWeaponValue);
-//		gameMaster.GetFinalDamage (1, 0);
+		//gameMaster.GetFinalDamage (1, 0);
 		gameMaster.GetGold (gameMaster.yellowValue);
 
 		for (int j = 0; j < xDim; j++) {
